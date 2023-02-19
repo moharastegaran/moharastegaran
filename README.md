@@ -1,7 +1,7 @@
 👋 Hi, I’m Mohammad Reza Rastegaran
 
-Graduated in Computer Engineering from K. N. Toosi University in Tehran.
-Now I work as a freelancer and a member of [NikTech Porgramming group](https://niktech.org).
+Studying Computer Software Engineering in master's degree at K. N. Toosi University in Tehran.
+Currently I work as an IT member of [Cedal Pharmaceutical Group](https://cedalco.com).
 I work as a Web, UI/UX Designer and mobile application developer.
 
 To explore more about me and my portfolio, visit [My Website](https://mohammadrezarastegaran.ir)
